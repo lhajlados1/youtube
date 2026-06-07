@@ -1,0 +1,15 @@
+{
+  "provider": "facebook",
+  "admob": {
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-394025609992544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "facebook": {
+    "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "rewarded": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_I"
+  }
+}
